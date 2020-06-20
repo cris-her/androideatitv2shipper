@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "androideatitv2shipper"
+rootProject.name='AndroidEatItV2Shipper'
